@@ -9,7 +9,7 @@
 - 💬 Ask me about software development 
 - 😄 Pronouns: ...
 - ⚡ Preferred Language : English
-- [Instagram]
+- 
 
 ### Education 
  
