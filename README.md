@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Orebayo Oluwapelumi Michael
+# I'm Orebayo Oluwapelumi
 ## A Full Stack Developer
 
 - 🔭 I’m currently working on ...
@@ -9,6 +9,9 @@
 - 💬 Ask me about software development 
 - 😄 Pronouns: ...
 - ⚡ Preferred Language : English
+
+## Education 
+
 
 ### Languages and Tools
 
