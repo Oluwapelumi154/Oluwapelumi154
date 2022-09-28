@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I'm Orebayo Oluwapelumi Michael
-# A Full Stack Developer
+## A Full Stack Developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React.js, Node.js
