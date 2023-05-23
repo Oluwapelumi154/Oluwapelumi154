@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I'm Orebayo Oluwapelumi
-## A Full Stack Developer
+## A Software Developer Specialized in Reactjs and Nodejs
 ### A Graduate of HNG Internship
 
 - 🌱 I’m currently learning React.js, Node.js
