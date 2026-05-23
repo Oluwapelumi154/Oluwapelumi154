@@ -2,7 +2,7 @@
 
 ### Software Engineer · React · Node.js · TypeScript
 
-I build scalable full-stack web applications with a focus on clean architecture,
+I build scalable web applications with a focus on clean architecture,
 great user experience, and production-ready code.
 
 ---
@@ -54,9 +54,11 @@ great user experience, and production-ready code.
 
 ## GitHub Stats
 
-![Orebayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oluwapelumi154&show_icons=true&theme=tokyonight)
+> 💡 Most of my work lives in private repositories — the streak below reflects my daily commitment to building.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwapelumi154&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Oluwapelumi154&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oluwapelumi154&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
